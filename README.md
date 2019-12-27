@@ -35,3 +35,9 @@ total 16
 Last failed login: Fri Dec 27 17:06:04 CST 2019 from 169.254.134.128 on ssh:notty
 There was 1 failed login attempt since the last successful login.
 Last login: Fri Dec 27 16:52:58 2019 from 客户端
+               
+下载上传
+yum -y install lrzsz
+下载sz
+上传rz
+
